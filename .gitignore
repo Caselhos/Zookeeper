@@ -1,0 +1,25 @@
+# Project exclude paths
+/.gradle/
+/Topics/Conditional statement/Chocolate/out/
+/Topics/Conditional statement/Chocolate/out/production/classes/
+/Topics/Integer types and operations/First digit/out/
+/Topics/Integer types and operations/First digit/out/production/classes/
+/Topics/Integer types and operations/Snail/out/
+/Topics/Integer types and operations/Snail/out/production/classes/
+/Topics/Integer types and operations/The sum of digits/out/
+/Topics/Integer types and operations/The sum of digits/out/production/classes/
+/Topics/Relational operators/Groundhogs at a party/out/
+/Topics/Relational operators/Groundhogs at a party/out/production/classes/
+/Topics/Scanning the input/Guest list of a hotel/out/
+/Topics/Scanning the input/Guest list of a hotel/out/production/classes/
+/Topics/Scanning the input/Hiring a chef/out/
+/Topics/Scanning the input/Hiring a chef/out/production/classes/
+/Topics/Scanning the input/Print strings in the reverse order/out/
+/Topics/Scanning the input/Print strings in the reverse order/out/production/classes/
+/Topics/String/Extracting a substring/out/
+/Topics/String/Extracting a substring/out/production/classes/
+/Topics/The while and do-while loops/Collatz conjecture/out/
+/Topics/The while and do-while loops/Collatz conjecture/out/production/classes/
+/Zookeeper/task/build/
+/Zookeeper/task/out/
+/Zookeeper/task/out/production/classes/
