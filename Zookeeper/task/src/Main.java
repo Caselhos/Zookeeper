@@ -124,7 +124,7 @@ public class Main {
             It looks like we will soon have more rabbits!""";
 
         String[] animals = {camel, lion, deer, goose, bat, rabbit};
-        var escolha=-1;
+        var choice=-1;
         while(true){
             System.out.println("Please enter the number of the habitat you would like to view:");
             Scanner scanner = new Scanner(System.in);
@@ -132,9 +132,9 @@ public class Main {
                 break;
             }
             if(scanner.hasNextInt()){
-                escolha= scanner.nextInt();
+                choice= scanner.nextInt();
             }
-            System.out.println(animals[escolha]);
+            System.out.println(animals[choice]);
             System.out.println("See you later!");
         }
     }
